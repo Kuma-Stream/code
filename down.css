@@ -1,0 +1,44 @@
+.dbox-title {
+    padding: 8px 10px;
+    margin: 8px 0 0px;
+    font-weight: bold;
+    font-size: 13px;
+    color: #FFF;
+    background: #5a2e98;
+    text-align:center;
+}
+.dbox-wrap {
+margin: 0px 0;
+}
+.dbox {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+.dbox-list {
+background: #E4E4E4;
+line-height: 26px;
+padding: 0 5px
+}
+.dbox-list strong {
+background: #5a2e98;
+width: 65px;
+display: block;
+float: left;
+margin-left: -5px;
+margin-right: 5px;
+color: #FFF;
+padding: 0 5px;
+text-align: center;
+  font-size: 12px;
+}
+.dbox-list a {
+color: #6d6d6d;
+}
+.dbox-list a:hover {
+color: #5a2e98;
+}
+@media only screen and (max-width: 360px) {
+  .resIn dbox-list strong {width:100%}
+  .resIn dbox-title {text-align:center}
+}
