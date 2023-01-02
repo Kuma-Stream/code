@@ -1,7 +1,7 @@
 /*snacklink*/
 var go_url = 'https://ponselharian.com/';
     var api = 'eb07a1b2a5c7aa7befa32b22519e6cbe509f5088';
-    var shorten_includ = ["www.mirrored.to", "to.menjelajahi.com"];
+    var shorten_includ = ["www.mirrored.to", "https://to.menjelajahi.com"];
     
  /*lm*/
  var app_url = 'https://linkmonet.com/';
@@ -11,4 +11,4 @@ var go_url = 'https://ponselharian.com/';
  
  /*ouo*/
  var ouo_token = 'rrCvoHxA';
-    var domains = ['racaty.io', 'rapidshare.com', 'uploading.com', 'uploadable.ch', 'letitbit.net', 'turbobit.net'];
+    var domains = ['racaty.io', 'to.menjelajahi.com', 'uploading.com', 'uploadable.ch', 'letitbit.net', 'turbobit.net'];
