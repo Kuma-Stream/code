@@ -15,11 +15,14 @@ margin: 0;
 padding: 0;
 list-style: none;
 }
+
 .dbox-list {
-background: #E4E4E4;
-line-height: 26px;
-padding: 0 5px
+    margin: 5px 0;
+    background: #303030;
+    line-height: 26px;
+    padding: 0 5px 0 5px;
 }
+
 .dbox-list strong {
 background: #5a2e98;
 width: 65px;
@@ -33,7 +36,8 @@ text-align: center;
   font-size: 12px;
 }
 .dbox-list a {
-color: #6d6d6d;
+    color: #fffdfc;
+    padding: 10px;
 }
 .dbox-list a:hover {
 color: #5a2e98;
