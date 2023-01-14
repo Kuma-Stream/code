@@ -1,4 +1,4 @@
-//	Playerjs.com 18.21
+//	Akuma.my.id
 //	14.01.2023 03:52:22
 //	API - https://playerjs.com/docs/q=api
 
